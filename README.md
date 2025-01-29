@@ -7,7 +7,13 @@
   <body>
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
-    <h1>This is my test Home Page!</h1>
-    <img src="images/home.jpg" height="250">
+    <a href="aboutme.html">About Me</a>
+    <style>
+      body {background-color: powderblue;}
+      h1   {color: blue;}
+      h2    {color: red;}
+      h2    {font-family:Verdana}
+      h2    {font-size:3em}
+      </style>
   </body>
 </html>
