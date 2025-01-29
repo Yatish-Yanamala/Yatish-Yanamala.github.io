@@ -1,19 +1,2 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <a href="index.html">Home</a>
-    <a href="portfolio.html">Portfolio</a>
-    <a href="aboutme.html">About Me</a>
-    <style>
-      body {background-color: powderblue;}
-      h1   {color: blue;}
-      h2    {color: red;}
-      h2    {font-family:Verdana}
-      h2    {font-size:3em}
-      </style>
-  </body>
-</html>
+Let's Stay Skibiddi!
+https://github.com/Yatish-Yanamala/Yatish-Yanamala.github.io/tree/main
